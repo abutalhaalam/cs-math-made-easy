@@ -1,2 +1,1 @@
-# cs-math-made-easy
-A computational approach to your math exams.
+I’ve always approached math by thinking like a computer program. Instead of focusing on proofs, I’m more interested in breaking down concepts into their fundamental procedures—the "how" and "why" of each problem. This repository is my attempt to share that approach with others who think computationally. By organizing math notes as algorithms, functions, and logical steps, I hope to create a resource that benefits those who learn best through problem-solving rather than rote memorization. This is an evolving collection, starting with GitHub, with the potential to expand into a more interactive platform. 
